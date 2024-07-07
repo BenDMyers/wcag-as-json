@@ -849,6 +849,9 @@
                             },
                             {
                                 "content": "Custom tooltips, sub-menus, and other nonmodal popups that display on hover and focus are examples of additional content covered by this criterion."
+                            },
+                            {
+                                "content": "This criterion applies to content that appears in addition to the triggering component itself. Since hidden components that are made visible on keyboard focus (such as links used to skip to another part of a page) do not present additional content they are not covered by this criterion."
                             }
                         ],
                         "references": [
